@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
                         R.drawable.dice6
                 };
 
-
+// try
         rollButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
